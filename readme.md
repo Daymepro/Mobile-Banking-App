@@ -1,21 +1,10 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
 A simple clone of a bank app.
-
-Scan the bar code below to open the app on Expo go or click [Click here](https://expo.dev/@uwemneku/expoBANKapp)
-![barcode][barcode]
-
-1             |  2
-:-------------------------:|:-------------------------:
-![Product Name Screen Shot][product-screenshot]  | 
-
 ### Built With
 
 
@@ -82,13 +71,6 @@ You should have expo and react native cli installed globally
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [uwemneku](https://twitter.com/uwemneku) - uwemneku@gmail.com
-
-Project Link: [https://expo.dev/@uwemneku/expoBANKapp](https://expo.dev/@uwemneku/expoBANKapp)
 
 
 
